@@ -5,11 +5,6 @@
 lotto.xlsx 회차별 당첨번호
 ```
 
-### 준비물
-```
-lotto.xlsx 회차별 당첨번호
-```
-
 ### 실행방법
 ```
 1. Linux: py ./lotto.py
